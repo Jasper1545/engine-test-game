@@ -1,0 +1,63 @@
+{
+	"compilerOptions": {
+		"target": "es6",
+		"module": "commonjs",
+		"outDir": "./out",
+		"experimentalDecorators":true
+	},
+	"include": [
+		"src/**/*.ts",
+		"../engine/out/**/*.d.ts"
+/*
+		"src/gameCode/Property.ts",
+		"src/gameCode/Observer.ts",
+		"src/gameCode/StateMachine.ts",
+
+		"src/gameCode/EventEmitter.ts",
+
+		"src/gameCode/CharacterProperty.ts",
+		"src/gameCode/Character.ts",
+		"src/gameCode/Item.ts",
+		"src/gameCode/EquipmentProperty.ts",
+		"src/gameCode/Equipment.ts",
+		"src/gameCode/HeroProperty.ts",
+		"src/gameCode/Hero.ts",
+
+		"src/gameCode/WeaponProperty.ts",
+		"src/gameCode/GemProperty.ts",
+		"src/gameCode/Gem.ts",
+		"src/gameCode/Weapon.ts",
+		"src/gameCode/HeadProperty.ts",
+		"src/gameCode/Head.ts",
+		"src/gameCode/ShieldProperty.ts",
+		"src/gameCode/Shield.ts",
+
+		"src/gameCode/SceneService.ts",
+		"src/gameCode/Monster.ts",
+		"src/gameCode/BattleService.ts",
+
+		"src/gameCode/EquipmentPanel.ts",
+		"src/gameCode/HeroPanel.ts",
+
+		"src/gameCode/FindWay.ts",
+		"src/gameCode/PlayerState.ts",//0
+		"src/gameCode/IdleState.ts",
+		"src/gameCode/MoveState.ts",
+		"src/gameCode/Player.ts",//0
+		"src/gameCode/BattleService.ts",
+		"src/gameCode/User.ts",
+		"src/gameCode/Task.ts",//1
+		"src/gameCode/TaskService.ts",//1
+		"src/gameCode/TaskPanel.ts",
+		"src/gameCode/DialoguePanel.ts",
+		"src/gameCode/NPC.ts",
+		"src/gameCode/NPCState.ts",
+		"src/gameCode/Command.ts",
+		"src/gameCode/CommandService.ts",
+
+		"src/gameCode/GameMap.ts",
+*/
+
+		
+	]
+}
